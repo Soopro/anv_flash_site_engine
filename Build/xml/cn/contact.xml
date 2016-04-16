@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data id="Gestaltic Interacitve">
+	<header><![CDATA[<span class="red">A</span>bout us]]></header>
+	<contents tag="contact">
+		<page tag="ourtest" name="Section 2">
+				<textfield x="950" y="50" w="202" h="329">
+						<title><![CDATA[<span class="red">Section2</span> USE REMOVE]]></title>
+							<texts w="168" h="255" scroll="228">
+								<des><![CDATA[<span class="h2" ><b>Neo Ruan</b></span><br/>Technology adviser<br/>Web2.0 System develop]]></des> 
+								<des><![CDATA[<span class="h2" ><b>Danny Ocean</b></span><br/>ideal adviser<br/>Ocean's Eleven]]></des>  
+								<des><![CDATA[<span class="h2" ><b>Rusty Ryan</b></span><br/>Technology adviser<br/>Ocean's Eleven]]></des> 
+								<des><![CDATA[<span class="h2" ><b>Livingston Dell</b></span><br/>Technology adviser<br/>Ocean's Eleven]]></des> 
+							</texts>
+							<texts w="200" y="252">
+								<txt><![CDATA[<span class="red2">Prove to be advisors?</span>]]></txt>
+								<link y="25"><![CDATA[<a href="event:track1.mp3">contact(at)gestaltic.com</a><br>]]></link>
+							</texts>
+				</textfield>
+				<textfield tag="check" x="100" y="50" w="334" h="329" count="0">
+						<title><![CDATA[<span class="red">Test</span>Tesetdfasfs]]></title>
+						<poster src="store/poster.swf" w="300" h="150" border="0"/>
+						<texts w="310" h="260" y="160">
+							<piece y="100">
+								<button type="reset"><![CDATA[<b>Download</b>]]></button>
+								<button x="200" type="go" tag="" target="aboutus#ourteam"><![CDATA[<b>Vist Works</b>]]></button>
+							</piece>
+						</texts>
+				</textfield>
+				<textfield tag="test21" x="500" y="400" w="400" h="100" count="0">
+					<tab>
+						<title><![CDATA[<span class="red">Test</span>Tesetdfasfs]]></title>
+						<texts w="410" h="230">
+							
+							<piece y="50">
+								<txt><![CDATA[<span class="red2">Prove to be advisors?</span>]]></txt>
+					  	</piece>
+						</texts>
+					</tab>
+					</textfield>
+		</page>
+	</contents>
+</data>

@@ -1,0 +1,113 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/* hide from ie on mac \*/
+html {
+	height: 100%;
+
+}
+	/* end hide */
+
+body
+{	
+	height:100%;
+	width:100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #999;
+	background: #333 url(../images/bg.gif) repeat;
+}
+
+a {text-decoration: underline; color:#FFF;}
+a:link {text-decoration: underline; color:#FFF;}
+a:visited {text-decoration: underline; color:#CCC;}
+a:hover {text-decoration: underline; color:#FFF;}
+
+
+#anvolution{
+	min-height:641px;
+	min-width:1091px;
+	width:100%; 
+	height:100%; 
+	width: expression( document.body.clientWidth <= 1090 ? "1090px" : "100%" );
+	height: expression( document.body.clientHeight <= 640 ? "640px" : "100%" );
+}
+#opera{
+	width:1px; 
+	height:1px; 
+	overflow: hidden;
+	position: absolute; 
+	top:0;left:0;
+}
+.swf{
+	width:100%; 
+	height:100%;
+}
+#middle{
+	width:100%; 
+	height:100%;
+	position: absolute;
+	top:0;left:0;
+	z-index:99; 
+	background:#333;
+	width: expression( document.body.clientWidth < 700 ? "700px" : "100%" );
+}
+#middle .top{
+	width:100%; 
+	height:40%;
+	min-height:200px;
+	margin:0 0 -200px 0;
+	height: expression( document.body.clientHeight < 460 ? "200px" : "40%" );
+}
+#middle .bottom{
+	width:100%; 
+	height:60% ;
+	min-height:241px;
+	margin:-241px 0 0 0;
+	height: expression( document.body.clientHeight < 460 ? "241px" : "60%" );
+}
+#splash{
+	width:100%; 
+	height:441px; 
+	position: relative; 
+	text-align:center;
+}
+#splash .bgleft{
+	width:50%; 
+	height:100%; 
+	position:absolute; 
+	top:0; left:0;
+	font-size: 9pt;
+	background: transparent url(../images/bg_left.gif) repeat-x;
+}
+
+#splash .bgright{
+	width:50%; 
+	height:100%; 
+	position:absolute; 
+	top:0; left:50%; 
+	font-size: 9pt;
+	background: transparent url(../images/bg_right.gif) repeat-x;
+}
+
+#splash .logo{
+	width:100%; 
+	height:100%; 
+	top:0; left:0;
+	position:absolute; 
+	text-align:center;
+	z-index:2;
+}
+
+#counter{
+	width:0; 
+	height:0; 
+	overflow: hidden;
+	display: none;
+}

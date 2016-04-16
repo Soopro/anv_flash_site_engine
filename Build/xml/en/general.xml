@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<general id="Anvolution Multimedia">
+	<navigation>
+		<info src="store/navinfo/info.swf"><![CDATA[Stand autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at]]></info> 
+		<nav type="nav" tag="aboutus" target="aboutus#">
+			<txt><![CDATA[<span class="red">A</span>bout us]]></txt>
+			<info src="store/navinfo/info0.swf"><![CDATA[Duis0 autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at]]></info>
+		</nav>
+		<nav type="nav" tag="portfolio" target="portfolio#">
+			<txt><![CDATA[<span class="red">P</span>ortfolio]]></txt>
+			<info src="store/navinfo/info1.swf"><![CDATA[Duis1 autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at]]></info>
+		</nav>  
+		<nav type="nav" tag="contact" target="contact#">
+			<txt><![CDATA[<span class="red">C</span>ontact]]></txt>
+			<info src="store/navinfo/info2.swf"><![CDATA[Duis2 autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at]]></info>
+		</nav>
+	</navigation>
+	<popups>
+		<title><![CDATA[Popup to:]]></title>
+		<info><![CDATA[Those menu will link to a pupup page, please make sure your bowers enable popups.]]></info>
+		<btn type="link" src="blog/" target="_blank"><![CDATA[Blog]]></btn>
+		<btn type="link" src="javascript:popwindow('help.html','410','600','help')" target="_self"><![CDATA[Join us]]></btn> 
+		<btn type="link" src="javascript:popwindow('feedback.html','640','480','help')" target="_self"><![CDATA[Feedback]]></btn>
+	</popups>
+	<logo x="-52" short="Anvolution"><![CDATA[<span class="red2">Anvolution</span> Multimedia Studio]]></logo>
+	<lang>
+		<title><![CDATA[Select language:]]></title>
+		<jumpmenu w="100" type="link">
+			<op dat="#eng">English</op>
+			<op dat="#gem">German</op> 
+			<op dat="#cha">中 文</op> 
+		</jumpmenu>
+	</lang>
+	<soundbtn><![CDATA[Sound:]]></soundbtn>
+ 	<sdplayer loop="1" reback="1" auto="0" vol="0.2"> 
+		<cover><![CDATA[Click here to get full sound player controls]]></cover>
+		<sound src="soundclips/opium.swf" bgm="1"><![CDATA[Opium]]></sound>
+		<sound src="soundclips/test.mp3"><![CDATA[4400]]></sound> 
+		<sound src="soundclips/true.mp3"><![CDATA[True]]></sound> 
+		<sound src="soundclips/Silvermyr_Hi.mp3"><![CDATA[Silvermyr Hi]]></sound>
+	</sdplayer>
+	<copyright>
+		<info><![CDATA[Copyright (c) 2008 <span class="red">Anvolution</span> Media Studio. All rights reserved. Registered brand names are trademarks of their respective owners.]]></info>
+		<btn type="link" src="policy.html" target="_blank"><![CDATA[Policy]]></btn>
+	</copyright>
+	<contents>
+		<xml src="home.xml" /> 
+		<xml src="about.xml" /> 
+		<xml src="portfolio.xml" /> 
+		<xml src="contact.xml" />
+	</contents> 
+</general>

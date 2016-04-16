@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>main</title>
+<link href="css/anv.css" rel="stylesheet" type="text/css" />
+<link REL = "Shortcut Icon" href="favicon.ico" />
+<script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/function.js"></script>
+<script type="text/javascript">
+
+		var isOpera = false;
+		
+		var flashvars = {};
+		flashvars.lang = "en";
+		flashvars.opera=isOpera;
+		
+		swfobject.embedSWF("site.swf", "anvolution", "100%", "100%", "9.0.45", "expressInstall.swf",flashvars);
+		//for Opera fix hangs up browser. 
+		if (isOpera == true){
+			swfobject.embedSWF("opera_hack.swf", "opera", "1", "1", "9.0.45");
+		}
+</script>
+
+</head>
+<body>
+   <div class="swf">
+            <div id="anvolution">
+				<h1>Alternative content</h1>
+				<p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" /></a></p>
+			</div>
+            <div id="opera"></div>
+   </div>
+
+<noscript>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,45,0" width="100%" height="100%" id="main" align="middle">
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="site.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#333333" />	<embed src="site.swf" quality="high" bgcolor="#333333" width="100%" height="100%" name="main" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+</noscript>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data id="Anvolution Multimedia">
+	<contents tag="contact">
+		<page tag="ourtest" name="Section 2">
+				<textfield x="295" y="50" w="264" h="329">
+						<title><![CDATA[<span class="red">Contact</span> Information]]></title>
+							<poster src="store/poster.swf" w="242" h="133" border="1"/>
+							<texts w="230" h="155" y="143" >
+								<txt><![CDATA[<span class="h2" ><b>Location:</b></span>]]></txt>
+								<txt y="14"><![CDATA[Consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut]]></txt> 
+								<txt y="50"><![CDATA[<span class="h2" ><b>E-mail:</b></span>]]></txt>
+								<txt y="64"><![CDATA[conact@anvolution.com]]></txt> 
+								<txt y="89"><![CDATA[<span class="h2" ><b>Msn:</b></span>]]></txt> 
+								<txt y="103"><![CDATA[msn@anvolution.com]]></txt>
+								<txt y="127"><![CDATA[<span class="h2" ><b>AIM:</b></span>]]></txt> 
+								<txt y="141"><![CDATA[aim@anvolution.com]]></txt> 
+							</texts>
+				</textfield>
+				<textfield x="578" y="50" w="314" h="329">
+						<title><![CDATA[<span class="red">Send</span> A Comment]]></title>
+							<texts w="290">
+								<des><![CDATA[Name:]]></des> 
+								<des y="91"><![CDATA[Company: (Optional)]]></des> 
+								<des y="142"><![CDATA[E-mail:]]></des> 
+								<des y="202"><![CDATA[From:]]></des> 
+								<des y="253"><![CDATA[The origin of an incident:]]></des> 
+								<form y="0" form="send">
+									<input y="18" w="280" max="100" key="name"/>
+									<radio x="10" y="55" key="inSex">
+										<op dat="Mr" >Mr</op>
+										<op dat="Miss">Miss</op> 
+										<op dat="None" select="1">I won't tell</op> 
+									</radio>
+									<input y="109" w="280" max="150" key="company" optional="1"/>
+									<input y="160" w="280" max="150" key="email" pattern="(\w|[_.\-])+@((\w|-)+\.)+\w{2,4}+" />
+									<dropmenu y="271" key="origin" w="140" limit="6">
+										<op dat="Webdesign">Webdesign</op>
+										<op dat="FlashGame">Flash Game</op>
+									</dropmenu>
+									<dropmenu x="0" y="222" key="from" w="140" limit="6">
+										<op dat="ASIA">Asia</op>
+										<op dat="AFRIA">Africa</op>
+										<op dat="AMERICAS">Americas</op>	
+										<op dat="EUROPE">Europe</op>
+										<op dat="OCEANIA">Oceania</op>
+										<op dat="CHA">China</op>
+										<op dat="FRA">France</op>
+										<op dat="GER" >Germany</op> 
+										<op dat="JAP">Japan</op>
+										<op dat="MAY">Malaysia</op> 
+										<op dat="UK">United Kingdom</op> 
+										<op dat="USA">United States</op>
+										<op dat="RU">Russia</op>	
+										<op dat="SGP">Singapore</op>	
+										<op dat="SWI">Switzerland</op>
+										<op dat="SAF">South Africa</op>
+										<op dat="OTHER">Other</op>
+									</dropmenu>
+								</form> 
+							</texts>
+				</textfield>
+				<textfield  x="911" y="50" w="473" h="329">
+						<texts w="449" h="260">
+							<des><![CDATA[Subject:]]></des> 
+							<des y="50"><![CDATA[Comment:]]></des> 
+							<form y="0" form="send">
+									<input y="18" w="439" max="150" key="subject"/>
+									<inarea y="68" w="439" h="188" key="comment" max="500"/>
+							</form> 
+							<piece w="455" y="271">
+								<des y="-4" w="230"><![CDATA[The comments may take times to response<br/>if you are hurry, please use E-mail or IM.]]></des> 
+								<button x="241" type="submit" tag="send" src="php_modules/messages/post_message.php" target=""><![CDATA[<b>Submit</b>]]></button>
+								<button type="reset" tag="send"><![CDATA[<b>Reset</b>]]></button>
+							</piece>
+						</texts>
+				</textfield>
+		</page>
+	</contents>
+</data>

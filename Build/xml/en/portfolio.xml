@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data id="Anvolution Multimedia">
+	<contents tag="portfolio">
+		<page tag="works" name="works">
+				<textfield x="295" y="50" w="264" h="329">
+						<title><![CDATA[<span class="red">Expertise</span> / <span class="red">Skill</span>]]></title>
+							<texts w="240">
+								<txt><![CDATA[Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Orem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi qui blandit praesent.]]></txt>					
+							<button y="277" type="link" tag="" src="moreworks.html" target="_blank"><![CDATA[<b>See more works?</b>]]></button>
+							</texts>
+				</textfield>
+				<textfield tag="detail" x="1120" y="50" w="264" h="329" count="0">
+						<title><![CDATA[<span class="dark">None Works Selected</span>]]></title>
+						<texts w="240" h="329">
+							<empty><![CDATA[<span class="h3"><b>(Empty)</b></span><br/>Eu feugiat nulla facilisisat vero eros]]></empty>
+						</texts>
+				</textfield>
+				<rotationmenu x="839" y="160" w="200" h="400" rlimit="60" ylimit="300" rollover="0" auto="1" step="8" icon="8" rspeed="6" speed="30" types="set" tag ="store" targets="detail">
+					<info><![CDATA[<span class="nomarl"><span class="red" >Page</span> &P <span class="dark">of</span> &T</span>]]></info>
+					<item src="store/works_1.png" source="test1.xml"/>
+					<item src="store/works_2.png" source="test2.xml"/>
+					<item src="store/works_3.png" source="test3.xml"/>
+					<item src="store/works_4.png" source="test5.xml"/> 
+					<item src="store/works_5.png" source="test6.xml"/>
+					<item src="store/works_6.png" source="test7.xml"/>
+					<item src="store/works_7.png" source="test8.xml"/>
+					<item src="store/works_8.png" source="test9.xml"/>  
+					<item src="store/works_9.png" source="test10.xml"/>
+					<item src="store/works_10.png" source="test.xml"/>
+					<item src="store/works_3.png" source="test.xml"/>
+					<item src="store/works_4.png" source="test.xml"/>
+					<item src="store/works_1.png" source="test.xml"/>
+					<item src="store/works_2.png" source="test.xml"/>
+					<item src="store/works_3.png" source="test.xml"/>
+					<item src="store/works_4.png" source="test.xml"/> 
+					<item src="store/works_1.png" source="test.xml"/>
+					<item src="store/works_2.png" source="test.xml"/>
+					<item src="store/works_3.png" source="test.xml"/>
+					<item src="store/works_4.png" source="test.xml"/>  
+					<item src="store/works_1.png" source="test.xml"/>
+					<item src="store/works_2.png" source="test.xml"/>
+					<item src="store/works_3.png" source="test.xml"/>
+					<item src="store/works_4.png" source="test.xml"/> 
+					<item src="store/works_1.png" source="test.xml"/>
+					<item src="store/works_2.png" source="test.xml"/>
+					<item src="store/works_3.png" source="test.xml"/>
+					<item src="store/works_4.png" source="test.xml"/> 
+					<item src="store/works_1.png" source="test.xml"/>
+					<item src="store/works_2.png" source="test.xml"/>
+					<item src="store/works_3.png" source="test.xml"/>
+					<item src="store/works_4.png" source="test.xml"/>  
+					<item src="store/works_1.png" source="test.xml"/>
+					<item src="store/works_2.png" source="test.xml"/>
+					<item src="store/works_3.png" source="test.xml"/>
+					<item src="store/works_4.png" source="test.xml"/> 
+					<item src="store/works_1.png" source="test.xml"/>
+					<item src="store/works_2.png" source="test.xml"/>
+					<item src="store/works_3.png" source="test.xml"/>
+					<item src="store/works_4.png" source="test.xml"/> 
+					<item src="store/works_1.png" source="test.xml"/>
+					<item src="store/works_2.png" source="test.xml"/>
+					<item src="store/works_3.png" source="test.xml"/>
+					<item src="store/works_4.png" source="test.xml"/>  
+					<item src="store/works_1.png" source="test.xml"/>
+					<item src="store/works_2.png" source="test.xml"/>
+					<item src="store/works_3.png" source="test.xml"/>
+					<item src="store/works_4.png" source="test.xml"/>  
+				</rotationmenu>
+				<textfield tag="selector" x="578" y="328" w="522" h="51">
+					<tab>
+						<title><![CDATA[<span class="red">Classification</span> Selection]]></title>
+						<texts w="510" h="230">
+							<des w="60"><![CDATA[Category:]]></des>
+							<des w="35" x="200"><![CDATA[Sort:]]></des>
+							<piece x="379" w="165">
+								<des w="45"><![CDATA[Active:]]></des>
+					  			<button x="44" type="set" tag="selectworks" src="rmdata.xml" target="store"><![CDATA[<b>Set</b>]]></button>
+					  		</piece>
+							<form y="0" form="selectworks">
+								<dropmenu key="color" w="130" x="58" y="0">
+									<op dat="all">all</op>
+									<op dat="dp1">deep 1</op> 
+									<op dat="dp2">deep 2</op> 
+									<op dat="dp3">deep 3</op> 
+									<op dat="dp4">deep 4</op>
+								</dropmenu>
+								<dropmenu key="style" w="118" x="233" y="0">
+									<op dat="all">all</op>
+									<op dat="dp1">deep 1</op> 
+									<op dat="dp2">deep 2</op> 
+									<op dat="dp3">deep 3</op> 
+									<op dat="dp4">deep 4</op>
+								</dropmenu>
+							</form>
+							
+						</texts>
+					</tab>
+					</textfield>
+		</page>
+	</contents>
+</data>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data id="Anvolution Multimedia">
+	<contents tag="home">
+		<page tag="home" name="home">
+				<textfield x="295" y="277" w="434" h="102" count="0">
+					<tab>
+						<title><![CDATA[<span class="red">Online</span> Store Design]]></title>
+							<texts w="424" h="90">
+								<img x="-4" src="store/redyru.jpg" />
+								<txt x="100" w="310"><![CDATA[Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzrili.]]></txt> 
+							</texts>
+					</tab>
+					<tab>
+						<title><![CDATA[<span class="red">Company</span> Website Design]]></title>
+							<texts w="424" h="90">
+								<img x="-4" src="store/redyru.jpg" />
+								<txt x="100" w="310"><![CDATA[Hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzrili.]]></txt> 
+							</texts>
+					</tab>
+					<tab>
+						<title><![CDATA[<span class="red">Flash</span> Game Design/Develop]]></title>
+							<texts w="424" h="90">
+								<img x="-4" src="store/redyru.jpg" />
+								<txt x="100" w="310"><![CDATA[Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzrili.]]></txt> 
+							</texts>
+					</tab>
+				</textfield>
+				<textfield x="748" y="277" w="422" h="102">
+						<title><![CDATA[<span class="red">Join</span> us]]></title>
+						<texts w="410" h="90">
+							<txt w="400"><![CDATA[Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.]]></txt>
+							<piece x="3" y="56">
+									<ico src="store/email_ico.png" w="9" y="5"/><txt w="181" x="14" link="1"><![CDATA[<a href="event:mailto:contact@anvolution.com$_self" class="link">contact(at)anvolution.com</a><br>]]></txt>
+							</piece>
+						</texts>
+				</textfield>
+				<textfield x="1189" y="277" w="195" h="102">
+						<title><![CDATA[<span class="red">M</span>agazine]]></title>
+						<texts w="190" h="90">
+							<img x="-8" w="73" h="69" src="store/magezine.png"  border="0"/>
+							<piece x="68" y="0" w="100">
+								<txt><![CDATA[Duis autem vel eum iriure dolor in hendrerit.]]></txt>
+								<button y="50" type="download" tag="" src="#issus" target="_self"><![CDATA[<b>Download</b>]]></button>
+							</piece>
+						</texts>
+				</textfield>
+		</page>
+	</contents>
+</data>

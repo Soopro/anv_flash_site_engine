@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config id="Gestaltic Interacitve">
+	<text>
+		<top color="0x333333" size="20" spacing="1" />
+		<title color="0xC4C4C4" size="12" spacing="0.8" />
+		<ui color="0xCCCCCC" size="8" spacing="0.5" />
+		<nav color="0xC4C4C4" size="14" spacing="0.5" />
+		<subnav color="0xAEAEAE" size="11" spacing="0.5" />
+		<popup color="0xC4C4C4" size="11" spacing="0.5" />
+		<copyright color="0x999999" size="8" spacing="1" />
+		<des color="0x626262" size="8" spacing="0.5" leading="2" />
+		<content color="0x747474" size="9" spacing="0.5" leading="2" />
+		<empty color="0x666666" size="9" spacing="0.5" leading="2" />
+		<input color="0xCCCCCC" size="11" spacing="1" leading="2" />
+		<mark>
+			<h1 color="#999999" size="10"/>
+			<h2 color="#999999" />
+			<h3 color="#666666" size="10"/>
+			<link color="#AAAAAA"/>
+			<dark color="#666666" />
+			<small size="8"/>
+			<normal size="9"/>
+			<big size="11"/>
+			<large size="10"/>
+			<red color="#CC0000" />
+			<red2 color="#990000" />
+			<it color="#999999" style="italic"/>
+		</mark>
+		<paragraph top="3" left="4" partspace="10"/>
+	</text>
+	<display>
+		<top y="60"/>
+		<images w="96" h="73"/>
+		<button w="102" />
+		<scroll pos="15" speed="5" alpha="0.4"> 
+			<tips><![CDATA[<span class="nomarl"><span class="red">Press</span> and <span class="red">drag</span> to scrolling</span>]]></tips>
+		</scroll>
+		<arrows rx="-100" ry="-8"/>
+		<loader>
+			<site><![CDATA[<span class="red2">Site</span> Loading]]></site>
+			<clip>Loading</clip>
+			<error>Error!!</error>
+			<nodata>No data has been match!!</nodata>
+		</loader>
+		<back>Back</back>
+		<formerror color="0xCC0000">
+			<empty><![CDATA[Can Not Be Empty!!]]></empty>
+			<input><![CDATA[Wrong Format!!]]></input>
+			<failed><![CDATA[<span class="nomarl">Failed!!</span>]]></failed>
+			<ok><![CDATA[<span class="nomarl">Sent!!</span>]]></ok>
+		</formerror>
+	</display>
+</config>

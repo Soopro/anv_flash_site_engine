@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data id="Gestaltic Interacitve">
+	<content tag="check" x="100" y="50" w="434" h="329" count="0">
+					<tab Key1="test" Key2="t">
+						<texts w="410" h="299">
+							<txt w="400" ><![CDATA[Duis Φ Ξ  λ üäöß  à â ç è é ê ë î ï ô ù û œ Flex+Приставкиibilität Für alle kostenlos! λ üäöß  à â ç è é ê ë î ï ô ù û œ <span class="h1">in hendrerit</span> in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.<br/><br/>Consequat, vel illum dolore eu feugiat nulla facilisis.]]></txt>
+							<piece y="143" h="100">
+								<txt w="300"><![CDATA[<span class="h1"><b>Redy Ru</b></span><br/>Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.]]></txt>
+								<img  src="store/redyru.jpg" />
+							</piece>
+							<piece>
+								<txt w="300"><![CDATA[<span class="h1"><b>Swift Xie</b></span><br/>Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.]]></txt>
+								<img src="store/swiftxie.jpg" />
+							</piece>
+						</texts>
+					</tab>
+					<tab Key1="test2" Key2="t2">
+						<title><![CDATA[<span class="dark">Test</span>]]></title>
+						<texts w="410" h="399">
+							<empty><![CDATA[<span class="h3"><b>(Empty)</b></span><br/>Eu feugiat nulla facilisisat vero eros]]></empty>
+							<txt w="400" ><![CDATA[DA, B, C, D, E, F, G, H, I, J, K, L, M, N, ñ, O, P, Q, R, S, T, U, V, W, X, Y, Z Flex+Приставкиibilität Für alle kostenlos! λ üäöß  à â ç è é ê ë î ï ô ù û œ <span class="h1">in hendrerit</span> in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.<br/><br/>Consequat, vel illum dolore eu feugiat nulla facilisis.]]></txt>
+							<piece y="153">
+								<txt w="400"><![CDATA[<span class="h1"><b>Redy Ru</b></span><br/>Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.]]></txt>
+								<img  src="store/redyru.jpg" />	<img src="store/swiftxie.jpg" />
+							</piece>
+						</texts>
+					</tab>
+	</content>
+</data>

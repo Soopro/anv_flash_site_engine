@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data id="Anvolution Multimedia">
+	<contents tag="aboutus">
+		<page tag="ourteam" name="Our Team">
+				<textfield x="295" y="50" w="434" h="329">
+					
+					<texts w="424" h="320">
+						<txt w="400"><![CDATA[Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, De Φ Ξ  λ üäöß  à â ç è é ê ë î ï ô ù û œ Flex+ibilität Für alle kostenlos! vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. ]]></txt>
+						<piece y="226">
+							<txt w="301"><![CDATA[<span class="h1"><b>Redy Ru</b></span><br/>Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.]]></txt>
+							<img src="store/redyru.jpg"/>
+						</piece>
+					</texts>
+				</textfield>
+				<textfield x="748" y="50" w="636" h="329">
+					<title><![CDATA[<span class="red">Team</span> Structure <span class="red">&</span> Purpose]]></title>
+					<texts w="602" h="295" scroll="295">
+						<txt><![CDATA[Orem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+
+- Requirement Analyze
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+
+- Interaction Design
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+
+- Grapihc Design
+Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+De Φ Ξ  λ üäöß  à â ç è é ê ë î ï ô ù û œ Flex+ibilität Für alle kostenlos! <span class="h2">in hendrerit</span>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla eu feugiat nulla facilisis at vero eros et accumsan et iusto facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+Eu feugiat nulla facilisisat vero eros et accumsan et i eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accu eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iustomsan et iustousto odio dignissim eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iusto qui blandit praesent luptatum zzril  eu feugiat nulla facilisis at vero eros et accumsan et iustodelenit augue duis dolore te feugait nulla facilisi.]]></txt>
+					</texts>
+				</textfield>
+		</page>
+		<page tag="introduction" name="Introduction">
+				<textfield x="295" y="50" w="394" h="329">
+					<title><![CDATA[What is <span class="red">Anvolution ?</span>]]></title>
+					<texts w="365" h="320">
+						<txt><![CDATA[De Φ Ξ  λ üäöß  à â ç è é ê ë î ï ô ù û œ Flex+ibilität Für alle kostenlos! <span class="h2">in hendrerit</span>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.  ]]></txt>
+					</texts>
+				</textfield>
+				<textfield x="708" y="50" w="404" h="329">
+					<title><![CDATA[Why <span class="red">Anvolution</span> Is Good Choice ?]]></title>
+					<texts w="379" h="320">
+						<txt><![CDATA[De Φ Ξ  λ üäöß  à â ç è é ê ë î ï ô ù û œ Flex+ibilität Für alle kostenlos! <span class="h2">in hendrerit</span>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla.]]></txt>
+					</texts>
+				</textfield>
+				<textfield x="1131" y="50" w="253" h="158">
+					<title><![CDATA[<span class="red">Introduction</span> Video]]></title>
+					<streamplayer src="store/test.swf" w="231" h="113" auto="1" reback="1" loop="0" vol="0.3" stream="1" buffer="0.5"/>
+				</textfield>
+				<textfield x="1131" y="227" w="253" h="152">
+					<title><![CDATA[<span class="red">Parteners</span> & Sponsor]]></title>
+					<texts w="379">
+						<piece>
+							<img w="40" h="40" src="store/magezine.png"  border="0"/>
+							<img w="40" h="40" src="store/magezine.png"  border="0"/>
+							<img w="40" h="40" src="store/magezine.png"  border="0"/>
+							<img w="40" h="40" src="store/magezine.png"  border="0"/>
+						</piece>
+						<piece x="3" y="99">
+							<ico src="store/email_ico.png" w="9" y="5"/><txt w="181" x="14" link="1"><![CDATA[<a href="event:mailto:contact@anvolution.com$_self" class="link">contact(at)anvolution.com</a><br>]]></txt>
+						</piece>
+					</texts>
+				</textfield>
+		</page>
+		<page tag="ourvisions" name="Our visions">
+				<textfield x="295" y="50" w="414" h="329">
+					<title><![CDATA[<span class="red">Expertise</span> Interaction Design]]></title>
+					<texts w="380" h="295" scroll="295">
+						<txt><![CDATA[De Φ Ξ  λ üäöß  à â ç è é ê ë î ï ô ù û œ Flex+ibilität Für alle kostenlos! <span class="h2">in hendrerit</span>uis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.]]></txt>
+					</texts>
+				</textfield>
+				<textfield x="719" y="50" w="434" h="329">
+					<title><![CDATA[<span class="red">Expertise</span> Multimedia Solutions]]></title>
+					<texts w="400" h="295" scroll="295">
+						<txt><![CDATA[uis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.]]></txt>
+					</texts>
+				</textfield>
+				<textfield x="1181" y="50" w="203" h="329">
+					<title><![CDATA[<span class="red">Our</span> Advisors]]></title>
+					<texts w="183" h="255" scroll="228">
+							<des><![CDATA[<span class="h2" ><b>Neo Ruan</b></span><br/>Technology adviser<br/>Web2.0 System develop]]></des> 
+							<des><![CDATA[<span class="h2" ><b>Danny Ocean</b></span><br/>ideal adviser<br/>Ocean's Eleven]]></des>  
+							<des><![CDATA[<span class="h2" ><b>Rusty Ryan</b></span><br/>Technology adviser<br/>Ocean's Eleven]]></des> 
+							<des><![CDATA[<span class="h2" ><b>Livingston Dell</b></span><br/>Technology adviser<br/>Ocean's Eleven]]></des> 
+					</texts>
+					<texts w="200" y="254">
+							<txt><![CDATA[<span class="red2">Prove to be advisors?</span>]]></txt>
+							<piece x="3" y="25">
+								<ico src="store/email_ico.png" w="9" y="5"/><txt w="181" x="14" link="1"><![CDATA[<a href="event:mailto:contact@anvolution.com$_self" class="link">contact(at)anvolution.com</a><br>]]></txt>
+							</piece>
+					</texts>
+				</textfield>
+		</page>
+		<page tag="professional" name="Professional">
+				<textfield x="295" y="50" w="654" h="329">
+					<title><![CDATA[<span class="red">Expertise</span> Interaction Design]]></title>
+					<texts w="620" h="295" scroll="295">
+						<txt><![CDATA[Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Orem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+
+- Web design
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+
+- Flash game
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+
+- Interactive demo
+Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+Eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.]]></txt>
+					</texts>
+				</textfield>
+				<textfield x="968" y="50" w="416" h="259">
+					<title><![CDATA[<span class="red">Project</span> Life Cycle]]></title>
+					<texts w="382" h="220" scroll="220">
+						<txt><![CDATA[De Φ Ξ  λ üäöß  à â ç è é ê ë î ï ô ù û œ Flex+ibilität Für alle kostenlos! <span class="h2">in hendrerit</span>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla eu feugiat nulla facilisis at vero eros et accumsan et iusto facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+Eu feugiat nulla facilisisat vero eros et accumsan et i eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accu eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iustomsan et iustousto odio dignissim eu feugiat nulla facilisis at vero eros et accumsan et iusto eu feugiat nulla facilisis at vero eros et accumsan et iusto qui blandit praesent luptatum zzril  eu feugiat nulla facilisis at vero eros et accumsan et iustodelenit augue duis dolore te feugait nulla facilisi.]]></txt>
+					</texts>
+				</textfield>
+				<textfield x="968" y="328" w="416" h="51">
+					<title><![CDATA[What <span class="red">Have We Done?</span>]]></title>
+					<texts w="390">
+						<des w="250"><![CDATA[Orem ipsum dolor sit amet consectetuer]]></des>
+						<button w="130" x="257" type="go" tag="" target="portfolio#"><![CDATA[<b>Visit our portfolio</b>]]></button>
+					</texts>
+				</textfield>
+		</page>
+	</contents>
+</data>

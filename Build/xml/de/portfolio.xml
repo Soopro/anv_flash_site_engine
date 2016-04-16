@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data id="Gestaltic Interacitve">
+	<contents tag="portfolio">
+		<page tag="works" name="Section 2">
+				<textfield x="950" y="50" w="202" h="329">
+						<title><![CDATA[<span class="red">Section2</span> USE REMOVE]]></title>
+							<texts w="168" h="255" scroll="228">
+								<des><![CDATA[<span class="h2" ><b>Neo Ruan</b></span><br/>Technology adviser<br/>Web2.0 System develop]]></des> 
+								<des><![CDATA[<span class="h2" ><b>Danny Ocean</b></span><br/>ideal adviser<br/>Ocean's Eleven]]></des>  
+								<des><![CDATA[<span class="h2" ><b>Rusty Ryan</b></span><br/>Technology adviser<br/>Ocean's Eleven]]></des> 
+								<des><![CDATA[<span class="h2" ><b>Livingston Dell</b></span><br/>Technology adviser<br/>Ocean's Eleven]]></des> 
+							</texts>
+							<texts w="200" y="252">
+								<txt><![CDATA[<span class="red2">Prove to be advisors?</span>]]></txt>
+								<link y="25"><![CDATA[<a href="event:track1.mp3">contact(at)gestaltic.com</a><br>]]></link>
+							</texts>
+				</textfield>
+				<rotationmenu x="750" y="200" w="200" h="400" rlimit="60" ylimit="300" rollover="0" auto="1" step="8" icon="8" rspeed="6" speed="30" types="set" tag ="store" targets="check">
+					<info><![CDATA[<span class="nomarl"><span class="red" >Page</span> &P <span class="dark">of</span> &T</span>]]></info>
+					<item src="store/works_1.swf" source="test.xml"/>
+					<item src="store/works_2.swf" source="test.xml"/>
+					<item src="store/works_3.swf" source="test.xml"/>
+					<item src="store/works_4.swf" source="test.xml"/> 
+					<item src="store/works_1.swf" source="test.xml"/>
+					<item src="store/works_2.swf" source="test.xml"/>
+					<item src="store/works_3.swf" source="test.xml"/>
+					<item src="store/works_4.swf" source="test.xml"/>  
+					<item src="store/works_1.swf" source="test.xml"/>
+					<item src="store/works_2.swf" source="test.xml"/>
+					<item src="store/works_3.swf" source="test.xml"/>
+					<item src="store/works_4.swf" source="test.xml"/>
+					<item src="store/works_1.swf" source="test.xml"/>
+					<item src="store/works_2.swf" source="test.xml"/>
+					<item src="store/works_3.swf" source="test.xml"/>
+					<item src="store/works_4.swf" source="test.xml"/> 
+					<item src="store/works_1.swf" source="test.xml"/>
+					<item src="store/works_2.swf" source="test.xml"/>
+					<item src="store/works_3.swf" source="test.xml"/>
+					<item src="store/works_4.swf" source="test.xml"/>  
+					<item src="store/works_1.swf" source="test.xml"/>
+					<item src="store/works_2.swf" source="test.xml"/>
+					<item src="store/works_3.swf" source="test.xml"/>
+					<item src="store/works_4.swf" source="test.xml"/> 
+					<item src="store/works_1.swf" source="test.xml"/>
+					<item src="store/works_2.swf" source="test.xml"/>
+					<item src="store/works_3.swf" source="test.xml"/>
+					<item src="store/works_4.swf" source="test.xml"/> 
+					<item src="store/works_1.swf" source="test.xml"/>
+					<item src="store/works_2.swf" source="test.xml"/>
+					<item src="store/works_3.swf" source="test.xml"/>
+					<item src="store/works_4.swf" source="test.xml"/>  
+					<item src="store/works_1.swf" source="test.xml"/>
+					<item src="store/works_2.swf" source="test.xml"/>
+					<item src="store/works_3.swf" source="test.xml"/>
+					<item src="store/works_4.swf" source="test.xml"/> 
+					<item src="store/works_1.swf" source="test.xml"/>
+					<item src="store/works_2.swf" source="test.xml"/>
+					<item src="store/works_3.swf" source="test.xml"/>
+					<item src="store/works_4.swf" source="test.xml"/> 
+					<item src="store/works_1.swf" source="test.xml"/>
+					<item src="store/works_2.swf" source="test.xml"/>
+					<item src="store/works_3.swf" source="test.xml"/>
+					<item src="store/works_4.swf" source="test.xml"/>  
+					<item src="store/works_1.swf" source="test.xml"/>
+					<item src="store/works_2.swf" source="test.xml"/>
+					<item src="store/works_3.swf" source="test.xml"/>
+					<item src="store/works_4.swf" source="test.xml"/>  
+				</rotationmenu>
+				<textfield tag="check" x="100" y="50" w="334" h="329" count="0">
+						<title><![CDATA[<span class="red">Test</span>Tesetdfasfs]]></title>
+						<poster src="store/poster.swf" w="300" h="150" border="0"/>
+						<texts w="310" h="260" y="60">
+							<txt w="310" ><![CDATA[DA, B, C, D, E, F, G, H, I, J, K, L, M, N, ñ, O, P, Q, R, S, T, U, V, W, X, Y, Z Flex+Приставкиibilität Für alle kostenlos! λ üäöß  à â illum dolore eu feugiat nulla facilisis.]]></txt>
+							<piece y="100">
+								<button type="reset"><![CDATA[<b>Download</b>]]></button>
+								<button x="200" type="go" tag="" target="aboutus#ourteam"><![CDATA[<b>Vist Works</b>]]></button>
+							</piece>
+						</texts>
+				</textfield>
+				<textfield tag="test21" x="500" y="400" w="400" h="100" count="0">
+					<tab>
+						<title><![CDATA[<span class="red">Test</span>Tesetdfasfs]]></title>
+						<texts w="410" h="230">
+							<form form="test">
+								<dropmenu key="color" w="200">
+									<op dat="all">all</op>
+									<op dat="dp1">deep 1</op> 
+									<op dat="dp2">deep 2</op> 
+									<op dat="dp3">deep 3</op> 
+									<op dat="dp4">deep 4</op>
+								</dropmenu>
+								<dropmenu key="style" w="200">
+									<op dat="all">all</op>
+									<op dat="dp1">deep 1</op> 
+									<op dat="dp2">deep 2</op> 
+									<op dat="dp3">deep 3</op> 
+									<op dat="dp4">deep 4</op>
+								</dropmenu>
+							</form>
+							<piece y="50">
+							<button type="reset" tag="test" target="testSet"><![CDATA[<b>Reset</b>]]></button>
+					  	<button type="set" tag="test" src="en/rmdata.xml" target="store"><![CDATA[<b>Set</b>]]></button>
+					  	</piece>
+						</texts>
+					</tab>
+					</textfield>
+		</page>
+	</contents>
+</data>

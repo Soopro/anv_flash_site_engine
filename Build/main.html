@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Anvolution Multimedia Studio</title>
+<meta name="Keywords" content="Web Design,Html,FLash,RIA,Flash Game,Poster,UI,Name Card,Art Design" />
+<meta name="Description" content="" />
+<meta name="Author" content="Anvolution Multimedia Studio." />
+<meta name="Category" content="Web Design,Html,FLash,RIA,Flash Game,Poster,UI,Name Card,Art Design" />
+<link href="css/anv.css" rel="stylesheet" type="text/css" />
+<link rel = "Shortcut Icon" href="favicon.ico" />
+
+<script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/function.js"></script>
+<script type="text/javascript">
+
+		var isOpera = (navigator.appName == "Opera");
+
+		var flashvars = {};
+		var params = {};
+		if (isOpera == true){
+			params.wmode = "window";
+		}else{
+			params.wmode = "opaque";
+		}
+
+		flashvars.lang = "en";
+		flashvars.opera=isOpera;
+
+		swfobject.embedSWF("site.swf", "anvolution", "100%", "100%", "9.0.45", "expressInstall.swf",flashvars,params);
+		//for Opera fix hangs up browser.
+		if (isOpera == true){
+			swfobject.embedSWF("opera_hack.swf", "opera", "1", "1", "9.0.45");
+		}
+</script>
+
+</head>
+<body onload="javascript:externallinks();">
+   <div class="swf">
+            <div id="anvolution">
+				<h1>Alternative content</h1>
+				<p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" /></a></p>
+			</div>
+            <div id="opera"></div>
+   </div>
+</body>
+</html>
